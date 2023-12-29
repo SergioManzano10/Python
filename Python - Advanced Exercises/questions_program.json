@@ -1,0 +1,6 @@
+[{"question_text": "What is the insulin ID gene?",
+    "alternatives": ["3630", "3631", "3632", "3633"],
+    "correct_answer": 1},
+  {"question_text": "What is the insulin symbol?",
+    "alternatives": ["INSUL", "INS", "INSULIN", "2INS"],
+    "correct_answer": 2}]
