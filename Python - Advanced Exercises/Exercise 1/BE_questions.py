@@ -1,3 +1,5 @@
+# To use the program you need to download "questions_program.json"
+
 import json # Needed to work with json files
 
 with open("questions_program.json", "r") as file:
