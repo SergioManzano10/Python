@@ -1,0 +1,10 @@
+BACKSLASH + "\n"
+sirve para agregar un salto de línea
+en VS code, print(f"") añade un salto adicional porque la función lo hace de forma automática
+Ahora abrimos los archivos con "with open (...) as...:
+we have added the try and except characteristics
+We have added functions
+We have created default arguments
+We have implemented the "Edit" buttonWe have implemented the "Add" button
+I have a real time program
+We are creating a web app
