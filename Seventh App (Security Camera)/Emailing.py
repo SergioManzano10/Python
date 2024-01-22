@@ -4,8 +4,8 @@ from email.message import EmailMessage
 from importlib.resources import contents
 import smtplib
 
-password = "razl xzkv ggfz dqbw"
-username = "smanzano250800@gmail.com"
+password = "your password"
+username = "your gmail adress"
 
 def send_email(image_path):
     print("send_email function started")
