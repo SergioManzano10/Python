@@ -1,0 +1,2 @@
+tours: # Tours is the name that we give to it, but we can write whatever we like (it is creating a dict)
+  css: '#displaytimer' # Is like the value of the key "tours" # We have to put the ID of the element that we want to extract from the webpage
