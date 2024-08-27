@@ -5,3 +5,6 @@
 
 ### Create the app
 ## 3) Write on anaconda prompt: python manage.py startapp job_application
+
+### Run the app
+## 4) Run on anaconda prompt: python manage.py runserver
