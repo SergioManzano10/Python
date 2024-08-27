@@ -1,1 +1,5 @@
+### Set-up the project
 
+## 1) Go to the directory where is the script using the terminal
+## 2) Write on anaconda prompt: django-admin startproject mysite .
+## 3) Write on anaconda prompt: python manage.py startapp job_application
