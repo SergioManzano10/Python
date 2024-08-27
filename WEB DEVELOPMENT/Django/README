@@ -9,6 +9,6 @@
 ### Run the app
 ## 4) Run on anaconda prompt: python manage.py runserver
 
- ### Make migrations to transfer code automatically
+### Make migrations to transfer code automatically
 ## 5) python manage.py makemigrations
 ## 6) python manage.py migrate
